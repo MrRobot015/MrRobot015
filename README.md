@@ -21,8 +21,8 @@
 - ⚡ Fun fact: Developers in the gaming industry are the happiest 😄 
 </p>
 
-<a href="https://github.com/unacorbatanegra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodeveloper&&count_private=true&theme=cobalt&show_icons=true" />
+<a href="https://github.com/MrRobot015">
+  <img align="center" src="https://i.pinimg.com/originals/9d/f1/f8/9df1f82852b0d020ccf6430c17b8ce36.jpg" />
 </a>
 
 <br>
