@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Mujtaba ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Hi there 👋 i'm Mujtaba 
 ![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) ![](https://img.shields.io/badge/editor-VScode-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) ![](https://img.shields.io/badge/code-python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/code-javascript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) ![](https://img.shields.io/badge/code-css-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) ![](https://img.shields.io/badge/code-Html-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)<br>
 ![](https://img.shields.io/badge/backend-Django-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) ![](https://img.shields.io/badge/backend-laravel-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) ![](https://img.shields.io/badge/DB-sqlite-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
@@ -29,19 +29,13 @@
 
 ![MrRobot015's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobot015&theme=dark&show_icons=true)<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot015&theme=dark" /> -->
 
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Mujtaba_Salah_
-[2]: https://www.linkedin.com/in/mujtaba-salah-el-deen-879823137/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href=" https://twitter.com/Mujtaba_Salah_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MrRobot015" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mujtaba-salah-el-deen-879823137/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/omair-gibreel-794b05133/" height="30" width="40" /></a>
+</p>
 
 
 
