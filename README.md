@@ -17,7 +17,7 @@
     + anything tech related 
 - 📫 How to reach me: Twitter( @Mujtaba_Salah_ )
 <!-- 😄 Pronouns: ... -->
-- ⚡ Fun fact: Developers in the gaming industry are the happiest 😄  <img src="https://i.pinimg.com/originals/9d/f1/f8/9df1f82852b0d020ccf6430c17b8ce36.jpg" style=" max-width=200px;">
+- ⚡ Fun fact: Developers in the gaming industry are the happiest 😄  <img src="https://i.pinimg.com/originals/9d/f1/f8/9df1f82852b0d020ccf6430c17b8ce36.jpg" height="240" width="480">
 
 ![MrRobot015's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobot015&theme=dark&show_icons=true)<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot015&theme=dark" /> -->
 
