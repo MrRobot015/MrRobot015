@@ -16,7 +16,8 @@
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: Developers in the gaming industry are the happiest 😄
 
-![MrRobot015's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobot015&theme=dark&show_icons=true)<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot015&theme=dark" />
+![MrRobot015's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobot015&theme=dark&show_icons=true)<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot015&theme=dark" /> -->
+![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
 
