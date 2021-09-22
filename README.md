@@ -17,8 +17,7 @@
 - 🤔 I’m looking for help with Brain Computer Interface (BCI)
 - 💬 Ask me about:
     + python
-    + django & django rest framework
-    +laravel
+    + django & django rest framework & laravel
     + anything tech related 
 - 📫 How to reach me: Twitter( @Mujtaba_Salah_ )
 <!-- 😄 Pronouns: ... -->
