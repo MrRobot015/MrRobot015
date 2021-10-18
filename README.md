@@ -11,7 +11,7 @@
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning GraphQl API's
 <!-- 👯 I’m looking to collaborate on --> 
 
 - 🤔 I’m looking for help with Brain Computer Interface (BCI)
@@ -19,7 +19,7 @@
     + python
     + django & django rest framework & laravel
     + anything tech related 
-- 📫 How to reach me: Twitter( @Mujtaba_Salah_ )
+
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: Developers in the gaming industry are the happiest 😄 
 </p>
