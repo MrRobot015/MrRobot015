@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/DB-MangoDB-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) ![](https://img.shields.io/badge/DB-neo4j-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
-<img src="https://previews.123rf.com/images/jossdiim/jossdiim1801/jossdiim180100028/93767092-programming-and-coding-illustration-.jpg" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
+<img src="https://previews.123rf.com/images/jossdiim/jossdiim1801/jossdiim180100028/93767092-programming-and-coding-illustration-.jpg" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador">
 
 <p align="left">
 <!--Here are some ideas to get you started:
