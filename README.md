@@ -14,8 +14,13 @@
 - 🌱 I’m currently learning GraphQl API's
 <!-- 👯 I’m looking to collaborate on --> 
 
+ - 🔭 I’m currently working on Next.Js
 - 🤔 I’m looking for help with Brain Computer Interface (BCI)
 - 💬 Ask me about:
+    + React.JS
+    + Node.Js
+    + SASS
+    + JSX
     + python
     + django & django rest framework & laravel
     + anything tech related 
