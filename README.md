@@ -21,8 +21,8 @@
     + Node.Js
     + SASS
     + JSX
-    + python
-    + django & django rest framework & laravel
+    + java
+    + spring boot
     + anything tech related 
 
 <!-- 😄 Pronouns: ... -->
