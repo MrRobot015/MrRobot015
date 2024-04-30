@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning GraphQl API's
 <!-- 👯 I’m looking to collaborate on --> 
 
- - 🔭 I’m currently working on Next.Js
+ - 🔭 I’m currently working on Nest.js
 - 🤔 I’m looking for help with Brain Computer Interface (BCI)
 - 💬 Ask me about:
     + React.JS
